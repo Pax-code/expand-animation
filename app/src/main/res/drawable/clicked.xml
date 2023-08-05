@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Basılı durum -->
+    <item android:drawable="@drawable/clicked_bg" android:state_pressed="true" />
+    <!-- Normal durum -->
+    <item android:drawable="@drawable/button_bg" />
+
+</selector>
